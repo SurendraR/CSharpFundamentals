@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpCollections
+namespace CSharpSixFeatures
 {
-    public class ArraysWorkOut
+    class Program
     {
-        public 
+        static void Main(string[] args)
+        {
+        }
     }
 }

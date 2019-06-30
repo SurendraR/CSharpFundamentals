@@ -15,6 +15,7 @@ namespace CSharpCollections
         {
             arrayList.Add(10);
             arrayList.Add("Surendra");
+            
         }
     }
 }
