@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayListWorkOut.cs" />
+    <Compile Include="ArraysWorkOut.cs" />
+    <Compile Include="DictionaryWorkOut.cs" />
+    <Compile Include="HashTableWorkOut.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
