@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CSharpCollections
 {
-    // Changed from github
+    // Changed from github from git again
     public class HashTableWorkOut
     {
         public static Hashtable hsStates = new Hashtable() {
